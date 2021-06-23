@@ -6,6 +6,6 @@ Information security article search engine
 
 
 
-在线地址：[secsea.cfyqy.com](http://secsea.cfyqy.com/)                 
+在线地址：[helosec.com](http://helosec.com/)                 
 
-Online address: [secsea.cfyqy.com](http://secsea.cfyqy.com/)
+Online address: [helosec.com](http://helosec.com/)
